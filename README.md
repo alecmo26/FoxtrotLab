@@ -1,6 +1,6 @@
 # FoxtrotLab
 I could not figure out how to do image in readme I made one in class but idk how to put a file here so heres a mockup
-please just press the raw button and accept this version please
+please just press the raw button or the button to view the full readme and accept this version please
 
 
 --------------------------------------------------------------------------------------------------------------------
